@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="page-footer">
       <p>
-        &copy; {new Date().getFullYear()} <span>SimplyRecipes</span>Built with{" "}
+        &copy; {new Date().getFullYear()} <span>SimplyRecipes</span> Built with{" "}
         <a href="gatsby.js">Gatsby</a>
       </p>
     </footer>
